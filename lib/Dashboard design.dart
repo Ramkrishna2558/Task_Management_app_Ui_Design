@@ -37,7 +37,7 @@ class _DashboardPageState extends State<DashboardPage> {
                 Row(
                   children: [
                     IconButton(
-                      iconSize: 38,
+                      iconSize: 28,
                       icon: Icon(Icons.arrow_back),
                       onPressed: () {
                         Navigator.pop(context);
