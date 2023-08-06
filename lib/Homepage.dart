@@ -6,7 +6,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  final String userName = 'Alex Marconi';
+  final String userName = 'Harsha';
   final List<Map<String, dynamic>> tasks = [
     {
       'title': 'App animation',
